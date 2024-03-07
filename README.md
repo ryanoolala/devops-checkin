@@ -247,7 +247,7 @@ On the GitLab CI pipeline page, we can manually trigger a CI pipeline run. Assum
 
 Send the link to your GitLab repository to the person who requested you to engage in this check-in.
 
-If you're selected, you will be notified and requested to join us for a face-to-face interview session where we'll talk about what/why/how you've done and request you to make some changes in a live programming exercise (please bring along a machine with a copy of your repository).
+If you're selected, you will be notified and requested to join us for an interview session where we'll talk about what/why/how you've done and request you to make some changes in a live programming exercise (please bring along a machine with a copy of your repository).
 
 
 
